@@ -15,3 +15,4 @@ projects im actively working on:
 *please note that ampel-microbit is a school project, which is why its mostly in german.*
 
 you can contact me on [discord (@lifeline4603)](https://discord.com/users/890994028672319499)
+![img](https://i.imgur.com/rD4hvJU.png)
