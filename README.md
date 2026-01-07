@@ -4,20 +4,19 @@ im a creative, mentally ill, autistic, stupid and annoying "developer" that has 
 
 as much as i dont see myself as a talented developer, i still see value in some of the stuff i do, which is why i upload it publicly to github.
 
-see a few of my popular repositories in this list:
+i've privated most of my repositories because i dont want people using them in malicious ways (given im way past that phase now), but i made a small list of my coolest ones:
 | repo                                                                                  | about                                                                                                                                                                                                                                                      |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[prop-skill-script-oink.lua](https://github.com/lifeline4603/prop-kill-script-oink.lua)**                     | the loader for a stable and fully operational ttt propkill script                                                                                                                                            |
-| **[chat-spammer-gmod](https://github.com/lifeline4603/chat-spammer-gmod)**                               | an up to date chat spammer for 3 different cheats (oink.industries, cheadleware.net, secretservice.club)                                                                                              |
+| **prop-skill-script-oink.lua**                     | a ttt propkill script i made before quitting cheating completely                                                                                                                                            |
+| **chat-spammer-gmod**                               | pretty cool chat spammer                                                                                              |
+| **gmod-ai-chatbot**                               | a lua and python script that automatically replied to ingame messages with the power of artificial inteligence.                     |
 
-projects im actively working on:
+here are some projects im actively working on:
 | repo                                                                                  | about                                                                                                                                                                                                                                                      |
 |------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[ampel-microbit](https://github.com/lifeline4603/ampel-microbit)**                               | a fully functioning traffic light with multiple functions. *please note that ampel-microbit is a school project, which is why its mostly in german.*                     |
-| **[gmod-ai-chatbot](https://github.com/lifeline4603/chat-spammer-gmod)**                               | a lua and python script that automatically replies to ingame messages with the power of artificial inteligence.                     |
-| **[gungame-gmod](https://github.com/lifeline4603/gungame-gmod)**                               | a gungame gamemode based off of csgo's arms race but modified to my liking with abilities, eco and more.                     |
-
-*please note that ampel-microbit is a school project, which is why its mostly in german.*
+| **strwGungame**                               | kinda like csgo armsrace, but in gmod. it works as a gamemode right now but is missing a lot of content.                     |
+| **strwFingerprint**                               | a hybrid anti-alt and anti-cheat system for garry's mod, using all the knowledge i've gathered from my past to utilize that against cheaters. uses a cloud system to keep alts logged and allows other servers to ban known alts on their servers (shared-db). anti alt is currently the best i know of (in practice, a PC factory reset wouldn't save you, and no, it doesn't use IPs)                     |
+| **strwRiddles**                               | stagnated, but it was a cool event i was working on with friends where players could solve puzzles and riddles in-game for prizes                     |
 
 you can contact me on [discord (@lifeline4603)](https://discord.com/users/890994028672319499)
 ![img](https://i.imgur.com/rD4hvJU.png)
