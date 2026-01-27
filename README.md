@@ -17,6 +17,7 @@ here are some projects im actively working on:
 | **strwGungame**                               | kinda like csgo armsrace, but in gmod. it works as a gamemode right now but is missing a lot of content.                     |
 | **strwFingerprint**                               | a hybrid anti-alt and anti-cheat system for garry's mod, using all the knowledge i've gathered from my past to utilize that against cheaters. uses a cloud system to keep alts logged and allows other servers to ban known alts on their servers (shared-db). anti alt is currently the best i know of (in practice, a PC factory reset wouldn't save you, and no, it doesn't use IPs)                     |
 | **strwRiddles**                               | stagnated, but it was a cool event i was working on with friends where players could solve puzzles and riddles in-game for prizes                     |
+| **strwPatcher**                               | its a script that assists you in patching known garry's mod net exploits in your server, currently my most active repository                     |
 
 you can contact me on [discord (@lifeline4603)](https://discord.com/users/890994028672319499)
 ![img](https://i.imgur.com/rD4hvJU.png)
